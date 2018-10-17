@@ -1,0 +1,3 @@
+rootProject.name = 'ImageProj'
+
+include ':app'
